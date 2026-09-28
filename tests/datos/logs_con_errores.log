@@ -1,0 +1,17 @@
+[INFO] 2025-01-10 User logged in
+[ERROR] 2025-01-10 Failed to connect to database
+[WARNING] Invalid password attempt
+
+[ERROR] 2025-13-45 Disk quota exceeded
+[INFO] 10/01/2025 Scheduled backup started
+[WARNING] 2025-02-30 Session about to expire
+[INFO] 2025-01-11 25:61:00 Cache cleared
+[ERROR] 2025-01-11
+[ERROR]
+[DEBUG] 2025-01-11 Query executed in 12ms
+User logged out without level
+INFO 2025-01-11 Missing brackets
+· [info] 2025-01-12 Lowercase level with bullet
+   
+[WARNING] 2025-01-12 08:15:00 High memory usage (85%)
+[] 2025-01-12 Empty level

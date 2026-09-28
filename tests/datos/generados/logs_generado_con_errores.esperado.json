@@ -1,0 +1,22 @@
+{
+  "semilla": 2,
+  "tasa_errores": 0.2,
+  "lineas_escritas": 5000,
+  "total_eventos": 4875,
+  "lineas_vacias": 125,
+  "por_nivel": {
+    "DESCONOCIDO": 258,
+    "ERROR": 443,
+    "INFO": 3250,
+    "WARNING": 924
+  },
+  "por_estado": {
+    "FECHA_INVALIDA": 351,
+    "NIVEL_DESCONOCIDO": 119,
+    "SIN_FECHA": 115,
+    "SIN_MENSAJE": 131,
+    "SIN_NIVEL": 139,
+    "VALIDA": 4020
+  },
+  "mal_formateadas_o_incompletas": 855
+}

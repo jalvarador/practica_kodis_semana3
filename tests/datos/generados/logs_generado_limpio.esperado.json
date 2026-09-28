@@ -1,0 +1,16 @@
+{
+  "semilla": 1,
+  "tasa_errores": 0.0,
+  "lineas_escritas": 5000,
+  "total_eventos": 5000,
+  "lineas_vacias": 0,
+  "por_nivel": {
+    "ERROR": 522,
+    "INFO": 3464,
+    "WARNING": 1014
+  },
+  "por_estado": {
+    "VALIDA": 5000
+  },
+  "mal_formateadas_o_incompletas": 0
+}

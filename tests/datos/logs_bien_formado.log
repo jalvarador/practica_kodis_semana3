@@ -1,0 +1,10 @@
+[INFO] 2025-01-10 User logged in
+[INFO] 2025-01-10 08:00:05 Application started
+[WARNING] 2025-01-10 08:02:11 Invalid password attempt
+[ERROR] 2025-01-10 08:03:40 Failed to connect to database
+[INFO] 2025-01-10 08:03:45 Retrying database connection
+[INFO] 2025-01-10 08:03:47 Database connection established
+[WARNING] 2025-01-11 High memory usage (82%)
+[ERROR] 2025-01-11 23:59:59 Payment gateway timeout
+[WARNING] 2024-02-29 Leap day certificate check
+[INFO] 2025-12-31 00:00:00 Daily report generated
